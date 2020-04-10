@@ -1,0 +1,10 @@
+{
+  "name": "graphql-import-bug",
+  "version": "1.0.0",
+  "main": "test.js",
+  "author": "zvictor",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-import": "^1.0.2"
+  }
+}
